@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-05T14:06:00.350Z
-Commit: Implement user profile customization
+Timestamp: 2026-03-05T15:25:39.825Z
+Commit: Fix memory leak in event handlers
